@@ -40,9 +40,11 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 
 **If you plan to run the app from source, it’s best to use a Conda environment.**
 
-## Installation (From Source)
+## 🛠️ Installation (From Source)
 1. Clone the repository:
-   ```git clone git@github.com:yanjie99/TravelTimeAnalysisTool.git
-      cd TravelTimeApp```
+   ```
+   git clone git@github.com:yanjie99/TravelTimeAnalysisTool.git
+   cd TravelTimeApp
+   ```
 
 
