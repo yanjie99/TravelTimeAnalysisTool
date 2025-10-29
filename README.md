@@ -64,7 +64,7 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 The app will display progress, generate maps, and show them inside a built-in viewer.
 
 ## 🧮 Running as an Executable (Windows)
-If you download the standalone [`TravelTimeApp.exe`](https://drive.google.com/file/d/1sv6KpXRxgJfHwldzDYFUsb9VhSkK2J20/view?usp=sharing):
+If you download the standalone [TravelTimeApp.exe](https://drive.google.com/file/d/1sv6KpXRxgJfHwldzDYFUsb9VhSkK2J20/view?usp=sharing):
 1. Double-click `TravelTimeApp.exe` to launch the interface.
 2. Enter your inputs and run,
 3. Click "Open Maps Folder" to view generated travel-time maps.
