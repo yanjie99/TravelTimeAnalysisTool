@@ -123,7 +123,6 @@ Default: `15` minutes
 - [NetworkX](https://networkx.org/) -- Shortest path computation
 - [PyInstaller](https://pyinstaller.org/) -- Application packaging
 
-Developed by **Yanjie Zhang**
 
 ## 📜 License
 This project is released under the MIT License.
