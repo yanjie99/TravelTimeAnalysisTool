@@ -89,7 +89,12 @@ If you'd like to rebuild the `.exe` from the source:
 
 ## 📁 Project Structure
 ```
-TravelTimeApp/
+TravelTimeApp(Executable, Windows)/
+│
+├── build      # internal software procedures
+├── dist       # .exe starter
+
+TravelTimeApp(Source)/
 │
 ├── UI_TraTA_app4.py           # Tkinter UI frontend
 ├── TravelTimeAnalysis.py       # Core spatial analysis pipeline
