@@ -7,6 +7,10 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 
 ---
 
+## 📰News
+- `2025.10.30` First prototype TTA tool version lauched.
+- `2025.10.31` Some optimizations have been made, including unify the crs (EPSG:3414), add the basemap, improve the color scheme. 
+
 ## 🚀 Features
 
 - 🧭 **Multi-mode travel analysis**: Supports `walk`, `bike`, `drive`, and their combinations.
