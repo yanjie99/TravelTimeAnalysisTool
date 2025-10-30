@@ -3,6 +3,7 @@
 **TravelTimeApp** is an interactive Python-based tool that visualizes *multi-mode travel-time accessibility maps* for user-defined Points of Interest (POIs).  
 It supports travel modes such as **walk**, **bike**, and **drive**, and automatically generates reachability maps based on travel time, departure time, and mode selection.
 
+![Alt Text](Promotion_TTApp/maps/Travel_Analysis_bike_15min.png)
 The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `GeoPandas`, and `Contextily`) with an intuitive **Tkinter-based user interface**, allowing anyone to run complex spatial computations without writing code.
 
 ---
