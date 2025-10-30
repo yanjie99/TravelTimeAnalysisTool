@@ -9,7 +9,7 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 ---
 
 ## 📰News
-- `2025.11.01` Pulish the new version APP, [download here.](https://drive.google.com/file/d/1CDGDiDmpFOSGbkNtKmHDOI68zs7rF5SO/view?usp=sharing)
+- `2025.11.01` Pulish the new version APP, [download here.](https://drive.google.com/file/d/1FqYVxypWEH1Gw66AnBZPPSOCh-xaJVLQ/view?usp=sharing)
 - `2025.10.31` Some optimizations have been made, including unify the crs (EPSG:3414), add the basemap, improve the color scheme. 
 - `2025.10.30` First prototype TTA tool version lauched.
 
