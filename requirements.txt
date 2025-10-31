@@ -1,0 +1,41 @@
+# ===============================
+# TravelTimeApp - Requirements
+# ===============================
+# Core Python version: 3.9–3.11
+# Recommended install:
+#     conda create -n traveltime python=3.11 -y
+#     conda activate traveltime
+#     pip install -r requirements.txt
+# ===============================
+
+# --- Core GIS & Spatial Libraries ---
+osmnx>=1.9.3
+geopandas>=1.0.1
+shapely>=2.0.3
+fiona>=1.9.6
+pyproj>=3.6.1
+rtree>=1.3.0
+networkx>=3.3
+rasterio>=1.3.10
+contextily>=1.6.0
+xyzservices>=2024.4.0
+scikit-learn >=1.7.2
+
+# --- Plotting & Visualization ---
+matplotlib>=3.9.2
+pillow>=10.2.0
+seaborn>=0.13.2
+
+# --- Data Handling ---
+pandas>=2.2.2
+numpy>=1.26.4
+
+# --- Packaging / Executable Support ---
+pyinstaller>=6.3.0
+pyinstaller-hooks-contrib>=2024.7
+
+# --- Utilities ---
+certifi>=2024.2.2
+
+# --- UI Framework ---
+# Tkinter is included with Python by default; no pip install required.
