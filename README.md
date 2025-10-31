@@ -101,7 +101,7 @@ TravelTimeApp(Executable, Windows)/
 ├── build      # internal software procedures
 ├── dist       # .exe starter
 
-TravelTimeApp(Source)/
+Source/
 │
 ├── UI_TraTA_app4.py           # Tkinter UI frontend
 ├── TravelTimeAnalysis.py       # Core spatial analysis pipeline
