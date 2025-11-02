@@ -114,6 +114,30 @@ Source/
 └── requirements.txt            # Python dependencies (for developers)
 ```
 
+```
+travel_time_app/
+├─ travel_time_app/         # package
+│  ├─ __init__.py
+│  ├─ config.py
+│  ├─ models.py
+│  ├─ utils.py
+│  ├─ geocoding.py
+│  ├─ graphs.py
+│  ├─ routing.py
+│  ├─ polys.py
+│  ├─ plotting.py
+│  └─ pipeline.py
+└─ app.py                   # example runner
+```
+
+## Run
+```bash
+python app.py
+```
+
+Outputs are written under `travel_time_app/maps/` and `travel_time_app/frontiers/` (paths are app‑relative).
+
+
 ## 🧭 Example Workflow
 1. Enter POIs:
 ```
