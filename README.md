@@ -49,7 +49,7 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 
 **If you plan to run the app from source, it’s best to use a Conda environment.**
 
-## 🛠️ Installation (From Source)
+## 🛠️ (Option A) Installation (From Source)
 1. Clone the repository:
    ```
    git clone git@github.com:yanjie99/TravelTimeAnalysisTool.git
@@ -72,14 +72,14 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 - Click `Run`
 The app will display progress, generate maps, and show them inside a built-in viewer.
 
-## 🧮 Running as an Executable (Windows)
+## 🧮 (Option B) Running as an Executable directly (Windows)
 If you download the standalone [TravelTimeApp.exe](https://drive.google.com/file/d/1sv6KpXRxgJfHwldzDYFUsb9VhSkK2J20/view?usp=sharing):
-1. Double-click `TravelTimeApp.exe` to launch the interface.
+1. Double-click `TravelTimeApp.exe` (always under the ./dist/xxx.exe file) to launch the interface.
 2. Enter your inputs and run,
 3. Click "Open Maps Folder" to view generated travel-time maps.
 All results are automatically saved in the `maps/` folder located next to the executable.
 
-## 🏗️ Build Your Own Executable
+## 🏗️ (Optionally) Build Your Own Executable
 If you'd like to rebuild the `.exe` from the source:
 1. Install `pyinstaller`:
    ```
