@@ -1,4 +1,4 @@
-# 🗺️ TravelTimeApp (SG)
+# 🗺️ TravelTimeApp (Singapore)
 
 **TravelTimeApp** is an interactive Python-based tool that visualizes *multi-mode travel-time accessibility maps* for user-defined Points of Interest (POIs).  
 It supports travel modes such as **walk**, **bike**, and **drive**, and automatically generates reachability maps based on travel time, departure time, and mode selection.
