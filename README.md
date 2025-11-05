@@ -9,11 +9,11 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 ---
 
 ## 📰News
-- `2025.11.03` In the latest version (251103), I have implemented extensive optimization work. Further optimisation of the UI, enhacing boundary aesthetics for various travel mode, adding functionality to export travel boundary data (both .GEOJSON and .GPKG files) and any other small matters. You can free to [`DOWNLOAD HERE`](https://drive.google.com/file/d/1_M5ssZuRf8tLrpOQyo3UZnIVZU1RJMRJ/view?usp=sharing)
-- `2025.11.02` Optimise the output map, and consolidate the whole source code.
-- `2025.11.01` Pulish the newest version (251101). [Download](https://drive.google.com/file/d/1FqYVxypWEH1Gw66AnBZPPSOCh-xaJVLQ/view?usp=sharing)
-- `2025.10.31` Some optimizations are made, including unify the crs (EPSG:3414), add the basemap (CartoBD Positron), improve the color scheme (improve colors contrast), polish map legend. 
-- `2025.10.30` First prototype TTA tool version lauched.
+- `2025.11.05` In the latest version (251103), I have implemented extensive optimization work. Further optimisation of the UI, enhacing boundary aesthetics for various travel mode, adding functionality to export travel boundary data (both .GEOJSON and .GPKG files) and any other small matters. You can free to [`DOWNLOAD HERE`](https://drive.google.com/file/d/1_M5ssZuRf8tLrpOQyo3UZnIVZU1RJMRJ/view?usp=sharing)
+- `2025.11.04` Optimise the output map, and consolidate the whole source code.
+- `2025.11.03` Pulish the newest version (251101). [Download](https://drive.google.com/file/d/1FqYVxypWEH1Gw66AnBZPPSOCh-xaJVLQ/view?usp=sharing)
+- `2025.11.02` Some optimizations are made, including unify the crs (EPSG:3414), add the basemap (CartoBD Positron), improve the color scheme (improve colors contrast), polish map legend. 
+- `2025.11.01` First prototype TTA tool version lauched.
 
 
 ## 🚀 Features
