@@ -9,6 +9,7 @@ The app integrates a powerful **geospatial analysis pipeline** (using `OSMnx`, `
 ---
 
 ## 📰News
+- `2025.11.19` You can find a demo video [HERE.](https://www.youtube.com/watch?v=lUHWB4WA41A)
 - `2025.11.05` In the latest version (251103), I have implemented extensive optimization work. Further optimisation of the UI, enhacing boundary aesthetics for various travel mode, adding functionality to export travel boundary data (both .GEOJSON and .GPKG files) and any other small matters. You can free to [`DOWNLOAD HERE`](https://drive.google.com/file/d/1_M5ssZuRf8tLrpOQyo3UZnIVZU1RJMRJ/view?usp=sharing)
 - `2025.11.04` Optimise the output map, and consolidate the whole source code.
 - `2025.11.03` Pulish the newest version (251101). [Download](https://drive.google.com/file/d/1FqYVxypWEH1Gw66AnBZPPSOCh-xaJVLQ/view?usp=sharing)
